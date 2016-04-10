@@ -1,10 +1,21 @@
+<div>
 ### Development Diary
 #4/10/16
-Bell 
 
+Bell: 
+<p>
 created github organization 'pawnmamas'
 created github repository 'PAWN'
-Berry
+</p>
+
+Berry:
+<p>
 uploaded Asteroid_Template.gmx
-Bell
+</p>
+<p>
+
+Bell:
+<p>
 created 'comments.md' on github
+</p>
+</div>
