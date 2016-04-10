@@ -1,2 +1,0 @@
-- [ ] Do a thing
-- [x] Do another thing
