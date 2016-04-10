@@ -8,13 +8,11 @@ Bell:
 > created github repository 'PAWN'
 
 Berry:
-<p>
-uploaded Asteroid_Template.gmx
-</p>
-<p>
+> uploaded Asteroid_Template.gmx
+
 
 Bell:
-<p>
-created 'comments.md' on github
-</p>
+
+> created 'comments.md' on github
+
 ##Another date##
