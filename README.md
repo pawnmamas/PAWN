@@ -1,6 +1,6 @@
 ### Development Diary
 #4/10/16
-Bell
+Bell \n
 created github organization 'pawnmamas'
 created github repository 'PAWN'
 Berry
