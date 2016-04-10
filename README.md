@@ -3,10 +3,9 @@
 
 
 Bell: 
-<p>
 > created github organization 'pawnmamas'
+>
 > created github repository 'PAWN'
-</p>
 
 Berry:
 <p>
