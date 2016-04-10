@@ -1,6 +1,6 @@
 <div>
-### Development Diary###
-#4/10/16
+### Development Diary#
+#4/10/16#
 
 
 Bell: 
