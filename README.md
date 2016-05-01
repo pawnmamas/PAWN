@@ -5,7 +5,7 @@
 Bell:online
 > updated 'todo.md' formatting
 >
-> attempting to create a forum/comments section
+> attempting to upload images
 
 ##4/10/16##
 
