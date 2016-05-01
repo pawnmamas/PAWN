@@ -2,8 +2,10 @@
 ##5/1/16##
 
 
-Bell:
-> online: attempting to fix to do list
+Bell:online
+> updated 'todo.md' formatting
+>
+> attempting to create a forum/comments section
 
 ##4/10/16##
 
