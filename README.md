@@ -2,12 +2,12 @@
 ##5/1/16##
 
 
-Bell:online
+Bell:
 > updated 'todo.md' formatting
 >
 > attempting to create a forum/comments section
 >
-> created new branch 'images'///seperate from 'master' branch does not have same materials
+> created new branch 'images'///seperate from 'master' branch, updating 'images' does not update 'master'
 
 ##4/10/16##
 
