@@ -6,6 +6,8 @@ Bell:online
 > updated 'todo.md' formatting
 >
 > attempting to create a forum/comments section
+>
+> created new branch 'images'///seperate from 'master' branch does not have same materials
 
 ##4/10/16##
 
