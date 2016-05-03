@@ -5,7 +5,7 @@
 Bell:
 > updated 'todo.md' formatting
 >
-> attempting to create a forum/comments section
+> attempted/failed to create a forum/comments section
 >
 > created new branch 'images'///seperate from 'master' branch, updating 'images' does not update 'master'
 
