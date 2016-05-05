@@ -1,4 +1,11 @@
 # Development Diary#
+##5/5/16##
+
+Bell:
+> created 'links.md' ///to share general sites/software with each other
+>
+> added link music maker software link to 'links.md' ///for making game music
+
 ##5/1/16##
 
 
