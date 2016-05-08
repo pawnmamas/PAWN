@@ -3,6 +3,9 @@
 > Making Menus: https://www.youtube.com/watch?v=OV0130TtuM0
 >
 > Making the platformer/room scroll: https://www.youtube.com/watch?v=zEWBcrjK7hA
+>
+> Talking to NPCs: https://www.youtube.com/watch?v=VLFneLQB3_k
+>> /// when following tutorial, whenever he types global.font, replace global.font with a custom font name....to create a custom font just right click 'fonts' and create a new font.
 
 ##Free Chiptune Downloads##
 > http://freemusicarchive.org/search/?quicksearch=chiptunes
