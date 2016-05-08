@@ -2,6 +2,7 @@
 ##GameMaker Tutorials##
 > Making Menus: https://www.youtube.com/watch?v=OV0130TtuM0
 >
+> Making the platformer/room scroll: https://www.youtube.com/watch?v=zEWBcrjK7hA
 
 ##Free Chiptune Downloads##
 > http://freemusicarchive.org/search/?quicksearch=chiptunes
