@@ -1,4 +1,4 @@
-#URGENT: Updated version of Gamemaker has been released /// I went ahead and downloaded it, I'll let you know if it screws something up
+#URGENT: DONT DOWNLOAD updated version of Gamemaker
 
 # Development Diary#
 ##5/8/16##
