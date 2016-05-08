@@ -1,4 +1,12 @@
+#URGENT: Updated version of Gamemaker has been released /// I went ahead and downloaded it, I'll let you know if it screws something up
+
 # Development Diary#
+##5/8/16##
+
+Bell:
+> working on making start-up menus in gamemaker
+>
+
 ##5/5/16##
 
 Bell:
