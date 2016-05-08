@@ -4,8 +4,20 @@
 ##5/8/16##
 
 Bell:
-> working on making start-up menus in gamemaker
+> created a title screen with working 'play' and 'exit' buttons with background music
 >
+> added free chiptune link to 'links'
+>
+> uploaded sprite png images to 'images' branch
+>> PAWN sprite sheet
+>>
+>> NPC sprite sheet
+>>
+>> Terrerria background (named 36--)
+>>
+>> title menu cursor sprite sheet
+>>
+>> textbox/textbox2 for speaking to NPCs
 
 ##5/5/16##
 
