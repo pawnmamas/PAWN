@@ -7,11 +7,15 @@
 > Talking to NPCs: https://www.youtube.com/watch?v=VLFneLQB3_k
 >> /// when following tutorial, whenever he types global.font, replace global.font with a custom font name....to create a custom font just right click 'fonts' and create a new font.
 
-##Free Chiptune Downloads##
+##Music##
+###Sound Effects Maker###
+> http://www.bfxr.net
+>
+###Free Chiptune Downloads##
 > http://freemusicarchive.org/search/?quicksearch=chiptunes
 >
 
-##Chiptune Software ///for making game music
+###Chiptune Software ///for making game music
 > FamiTracker Download: http://famitracker.com/
 >> List of Note Effects ///for altering notes http://famitracker.com/wiki/index.php?title=Effect_list
 >>
